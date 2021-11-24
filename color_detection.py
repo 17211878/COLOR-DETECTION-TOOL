@@ -1,5 +1,5 @@
 # pip install pandas opencv-python
-# visit pyGuru on youtube
+
 
 import cv2
 import pandas as pd
